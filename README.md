@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=C6BBB7&height=300&section=header&text=HelloWorld!%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=97DBAE&height=300&section=header&text=HelloWorld!%20&fontSize=90)
 
 ### Hi there 👋
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=C6BBB7&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=97DBAE&height=200&section=footer)
