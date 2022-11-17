@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align=center>
-	<p>✨ Framework ✨</p>
+	<p>🔮 Frameworks 🔮</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
