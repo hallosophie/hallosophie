@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sojeong%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sojeong%20Github!&fontSize=50" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -69,3 +69,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
 </div>
 -->
+	
+![footer](https://capsule-render.vercel.app/api?color=75bde0&height=150&type=waving&section=footer)
