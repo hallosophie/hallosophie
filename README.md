@@ -13,6 +13,6 @@
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallosophie&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=hallosophie23&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=hallosophie&show_icons=true">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=97DBAE&height=200&section=footer)
