@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/Java-FFCA28?style=flat-square&logo=java&logoColor=blue"/>
 
-- 📫 How to reach me: ...
+<img src="https://img.shields.io/badge/${JavaScript}-${#F7DF1E}?style=${flat}&logo=${JavaScript}&logoColor=${#F7DF1E}"/></a>&nbsp
 
 
 
